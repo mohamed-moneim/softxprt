@@ -22,8 +22,8 @@
 <body>
 <div id="mySidebar" class="sidebar">
 <a href="/books">Books</a>
-<a href="/Customers">Customers</a>
-<a href="/Borrow">Borrow</a>
+<a href="/customers">Customers</a>
+<a href="/borrows">Borrow</a>
 
                                     <!--<a  
                                        onclick="event.preventDefault();

@@ -38,7 +38,7 @@
 
                 <td><a href="{{route('deletecustomer',$b->id)}}" >Delete {{ $b->name }}<a></td>
     @endif
-    <td><a href="{{route('singlebook',$b->id)}}" >{{ $b->name }}<a></td>
+    <td><a href="{{route('singlecustomer',$b->id)}}" >{{ $b->name }}<a></td>
 
                 </tr>
                 @endforeach
